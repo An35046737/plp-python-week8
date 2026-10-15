@@ -1,0 +1,39 @@
+PERSONAL MINI-TOOLKIT — PROJECT PLAN
+
+1. TOOLS
+
+Tool 1: Simple Calculator
+The calculator asks the user for two numbers and an arithmetic operation, then displays the result.
+Concepts: Variables, input, type conversion, conditionals, arithmetic, and f-strings.
+
+Tool 2: To-Do List Manager
+The to-do list manager allows the user to add tasks, view saved tasks, and remove tasks.
+Concepts: Lists, append(), remove(), loops, conditionals, and f-strings.
+
+Tool 3: Number Guessing Game
+The game asks the user to guess a secret number and gives feedback until the correct number is guessed.
+Concepts: Variables, random numbers, loops, conditionals, input, and f-strings.
+
+2. EXACT MENU TEXT
+
+Welcome to My Personal Mini-Toolkit!
+
+Please choose a tool:
+1. Simple Calculator
+2. To-Do List Manager
+3. Number Guessing Game
+4. Quit
+
+3. PROGRAM BEHAVIOUR
+
+The program will display the menu repeatedly until the user chooses Quit. Invalid choices will receive a friendly error message. Each tool will return to the main menu after it finishes.
+
+4. CONCEPTS USED
+
+Variables: Store numbers, choices, and tasks.
+Input and output: Communicate with the user.
+Conditionals: Choose tools and handle decisions.
+Loops: Repeat the menu and guessing game.
+Lists: Store and manage to-do tasks.
+F-strings: Display clear, personalized messages.
+Comments: Explain each tool and make the code readable.
